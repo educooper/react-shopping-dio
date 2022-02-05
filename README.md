@@ -49,8 +49,7 @@ Antes de iniciar :checkered_flag:, você precisa ter instalado o [Git](https://g
 $ git clone https://github.com/educooper/react-shopping-dio
 
 # Clone a aplicação node 
-# git clone https://github.com/nathyts/api-dioshopping
-$ cd api-dioshopping
+$ git clone https://github.com/nathyts/api-dioshopping
 
 # Execute o servidor - na pasta api-dioshopping
 $ yarn dev
