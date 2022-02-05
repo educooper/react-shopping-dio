@@ -23,8 +23,7 @@
 
 ## :dart: About / Sobre ##
 
-Neste projeto pude praticar a integração entre Frontend em React com backend node rodando sqllite. 
-
+Neste projeto pude praticar a integração entre Front-end em React com uma API REST (desenvolvida em Node.js). 
 
 ## :rocket: Technologies / Tecnologias ##
 
@@ -36,7 +35,6 @@ Usou-se neste projeto:
 - material-ui;
 - JSON;
 - sql;
-
 
 ## :white_check_mark: Requirements / Requisitos ##
 
@@ -59,9 +57,7 @@ $ yarn add cors
 
 # Execute o projeto - na pasta react-shopping-dio
 
-
 $ yarn start
-
 
 # O frontend rodando na porta 3000 e o servidor rodando na porta 5000
 
